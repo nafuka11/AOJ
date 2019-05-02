@@ -1,0 +1,1 @@
+My [AOJ](judge.u-aizu.ac.jp/) solutions.
